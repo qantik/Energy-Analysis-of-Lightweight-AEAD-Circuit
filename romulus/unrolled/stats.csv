@@ -1,0 +1,32 @@
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,candidate,impl,options,cycles,area (um^2),core latency,TPUT (Mbit/s),Power (mW),Total Energy(1000line*nJ),total time in ps,clk period
+,,,,,,,,,,,,
+,,romulus,"1-round, clock-gated",compile_ultra,,18764.020965,4.75,,0.1288,3935.05896,30551700000,100
+,,,"1-round, no cg",compile_ultra,,19130.933009,5.19,,0.1343,4103.09331,30551700000,100
+,,,,,,,,,,,,
+,,,"2-round, clock-gated",compile_ultra,,20284.589024,6.19,,0.1709,2668.85985,15616500000,100
+,,,"2-round, no cg",compile_ultra,,20676.902639,7.16,,0.1672,2611.0788,15616500000,100
+,,,,,,,,,,,,
+,,,"3-round, clock-gated",compile_ultra,,27357.523598,9.58,,0.2949,3189.60891,10815900000,100
+,,,"3-round, no cg",compile_ultra,,27761.832411,9.21,,0.2874,3108.48966,10815900000,100
+,,,,,,,,,,,,
+,,,"4-round, clock-gated",compile_ultra,,31998.960499,12.89,,0.5021,4091.56269,8148900000,100
+,,,"4-round, no cg",compile_ultra,,32292.490133,11.56,,0.4762,3880.50618,8148900000,100
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,"unrolled, no ig, no cg",compile -exact_map -area_effort high,,192191.332448,80.65,,26.4801,3151.1319,119000000,200
+,,,"unrolled, ig, no cg",compile -exact_map -area_effort high,,223749.999088,88.69,,4.5132,537.0708,119000000,200
+,,,"unrolled, no ig, cg",compile -exact_map -area_effort high,,191571.110119,80.59,,26.4952,3152.9288,119000000,200
+,,,"unrolled, ig, cg",compile -exact_map -area_effort high,,223129.776759,88.62,,4.498,535.262,119000000,200

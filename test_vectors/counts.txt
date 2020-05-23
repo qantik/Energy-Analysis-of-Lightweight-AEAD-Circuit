@@ -1,0 +1,8 @@
+# of ae calls   = 1000
+# of ad blocks  = 535
+# of msg blocks = 4278
+
+
+# of ae calls   = 50
+# of ad blocks  = 28
+# of msg blocks = 207

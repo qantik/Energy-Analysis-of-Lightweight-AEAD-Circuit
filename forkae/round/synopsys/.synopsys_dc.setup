@@ -1,0 +1,22 @@
+# This file is intended to be used for TSMC 90 process
+# and Design Vision (TCL)
+# updated by AN 21/09/2009
+
+set cache_read ""
+set cache_write ""
+
+# Search Path
+set search_path "$search_path ./"
+
+
+set LIB1 /dkits/tsmc/90nm/cmn90lp/stclib/9-track/tcbn90lphp/Front_End/timing_power_noise/CCS/tcbn90lphp_150h/tcbn90lphpbc0d77_ccs.db
+
+ 
+
+# Setup libraries
+set link_library  "* $LIB1"
+set target_library "$LIB1"
+ 
+
+# Define Work Library Location
+define_design_lib WORK -path "./WORK"

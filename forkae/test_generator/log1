@@ -1,0 +1,157 @@
+
+/* Processing associated data */ 
+
+Tweakey at block 1: c2 54 f8 1b e8 e7 8d 76 5a 2e 63 33 9f c9 9a 66 51 ff 4a ec 29 cd ba ab f2 fb e3 46 7c 60 00 00 00 00 00 01 
+
+ === At the fork: 36 37 9d 27 44 a0 f2 b6 30 e2 03 78 a0 cb 32 c5  ===FORKSKINNY CALL:
+TK:	c2 54 f8 1b e8 e7 8d 76 5a 2e 63 33 9f c9 9a 66 51 ff 4a ec 29 cd ba ab f2 fb e3 46 7c 60 00 00 00 00 00 01 
+PT:	38 5c 2a ec b0 3b fb 32 80 00 00 00 00 00 00 00 
+C0:	00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+C1:	ad 87 58 e5 ed f9 11 d7 6b 2e b1 23 b9 bd 2d fe 
+
+Running tag after block 1: ad 87 58 e5 ed f9 11 d7 6b 2e b1 23 b9 bd 2d fe 
+
+/* Processing message */
+
+Tweakey at block 1: c2 54 f8 1b e8 e7 8d 76 5a 2e 63 33 9f c9 9a 66 51 ff 4a ec 29 cd ba ab f2 fb e3 46 7c 80 00 00 00 00 00 01 
+
+ === At the fork: 11 0d c8 c8 b1 ec c9 72 53 9c 85 8d 66 2d c0 ff  ===FORKSKINNY CALL:
+TK:	c2 54 f8 1b e8 e7 8d 76 5a 2e 63 33 9f c9 9a 66 51 ff 4a ec 29 cd ba ab f2 fb e3 46 7c 80 00 00 00 00 00 01 
+PT:	32 0d b7 31 58 a3 5a 25 5d 05 17 58 e9 5e d4 ab 
+C0:	a1 b5 28 cf 3f cc 8d f9 6a d4 d9 b1 b8 03 fb 92 
+C1:	3d e8 63 7b 6b 5e e7 65 1a 6b 82 b0 8b 55 a2 94 
+
+Block 1 of plaintext/ciphertext: a1 b5 28 cf 3f cc 8d f9 6a d4 d9 b1 b8 03 fb 92 
+
+Running tag after block 1: 90 6f 3b 9e 86 a7 f6 b2 71 45 33 93 32 e8 8f 6a 
+
+Tweakey at block 2: c2 54 f8 1b e8 e7 8d 76 5a 2e 63 33 9f c9 9a 66 51 ff 4a ec 29 cd ba ab f2 fb e3 46 7c 80 00 00 00 00 00 02 
+
+ === At the fork: f3 96 29 49 77 04 2d c8 23 29 82 08 6f e0 7b ae  ===FORKSKINNY CALL:
+TK:	c2 54 f8 1b e8 e7 8d 76 5a 2e 63 33 9f c9 9a 66 51 ff 4a ec 29 cd ba ab f2 fb e3 46 7c 80 00 00 00 00 00 02 
+PT:	b2 cd c6 9b b4 54 11 0e 82 74 41 21 3d dc 87 70 
+C0:	8f f3 54 92 23 a0 5f e9 53 76 c1 2f 28 23 ad 04 
+C1:	7c e7 00 13 aa 04 be 7f 10 f1 9a d3 1a e1 03 f6 
+
+Block 2 of plaintext/ciphertext: 8f f3 54 92 23 a0 5f e9 53 76 c1 2f 28 23 ad 04 
+
+Running tag after block 2: ec 88 3b 8d 2c a3 48 cd 61 b4 a9 40 28 09 8c 9c 
+
+Tweakey at block 3: c2 54 f8 1b e8 e7 8d 76 5a 2e 63 33 9f c9 9a 66 51 ff 4a ec 29 cd ba ab f2 fb e3 46 7c e0 00 00 00 00 00 03 
+
+ === At the fork: e5 1d 16 d9 63 f6 c3 ad 8f 69 cd 8f 3c 03 4a f0  ===FORKSKINNY CALL:
+TK:	c2 54 f8 1b e8 e7 8d 76 5a 2e 63 33 9f c9 9a 66 51 ff 4a ec 29 cd ba ab f2 fb e3 46 7c e0 00 00 00 00 00 03 
+PT:	e9 3e a1 41 e1 fc 67 3e 80 00 00 00 00 00 00 00 
+C0:	ab 47 11 cb 20 14 15 05 6a f8 2c 58 c5 98 7b 09 
+C1:	e1 2a fd 21 10 93 4c 15 5e 6a ab 48 1e 93 ad d6 
+
+Block 3 of plaintext/ciphertext: a1 b5 28 cf 3f cc 8d f9 6a d4 d9 b1 b8 03 fb 92 
+
+Running tag after block 3: e1 2a fd 21 10 93 4c 15 5e 6a ab 48 1e 93 ad d6 
+
+/* Processing associated data */ 
+
+Tweakey at block 1: be 61 89 f9 5c bb a8 99 0f 95 b1 eb f1 b3 05 ef fa aa 3a fb 29 d1 e6 05 3c 7c 94 75 d8 00 00 00 00 00 00 01 
+
+ === At the fork: 36 f0 86 94 bc 0b 65 c8 bd 7e 5e 41 a7 39 f6 53  ===FORKSKINNY CALL:
+TK:	be 61 89 f9 5c bb a8 99 0f 95 b1 eb f1 b3 05 ef fa aa 3a fb 29 d1 e6 05 3c 7c 94 75 d8 00 00 00 00 00 00 01 
+PT:	1e a8 1c 7b 64 c5 14 73 5a c5 5e 4b 79 63 3b 70 
+C0:	a0 2d 8c fb fc 7f 00 00 47 b3 1a a0 70 7f 00 00 
+C1:	e3 a7 25 a4 29 e4 1e 9c 8a 60 0a 4c 4f 28 95 78 
+
+Running tag after block 1: e3 a7 25 a4 29 e4 1e 9c 8a 60 0a 4c 4f 28 95 78 
+
+Tweakey at block 2: be 61 89 f9 5c bb a8 99 0f 95 b1 eb f1 b3 05 ef fa aa 3a fb 29 d1 e6 05 3c 7c 94 75 d8 00 00 00 00 00 00 02 
+
+ === At the fork: 01 17 c0 60 5b 4f 6e 6e 36 d5 f2 2b 30 61 44 d4  ===FORKSKINNY CALL:
+TK:	be 61 89 f9 5c bb a8 99 0f 95 b1 eb f1 b3 05 ef fa aa 3a fb 29 d1 e6 05 3c 7c 94 75 d8 00 00 00 00 00 00 02 
+PT:	64 24 11 9e 09 dc aa d4 ac f2 1b 10 af 3b 33 cd 
+C0:	a0 2d 8c fb fc 7f 00 00 47 b3 1a a0 70 7f 00 00 
+C1:	29 47 c3 96 35 07 49 fa 9b 6e 2b ad e4 82 b1 1c 
+
+Running tag after block 2: ca e0 e6 32 1c e3 57 66 11 0e 21 e1 ab aa 24 64 
+
+Tweakey at block 3: be 61 89 f9 5c bb a8 99 0f 95 b1 eb f1 b3 05 ef fa aa 3a fb 29 d1 e6 05 3c 7c 94 75 d8 00 00 00 00 00 00 03 
+
+ === At the fork: 19 22 8a 29 d8 fa b8 51 09 e7 ad 2b 7e 41 e4 79  ===FORKSKINNY CALL:
+TK:	be 61 89 f9 5c bb a8 99 0f 95 b1 eb f1 b3 05 ef fa aa 3a fb 29 d1 e6 05 3c 7c 94 75 d8 00 00 00 00 00 00 03 
+PT:	e3 50 48 47 15 5c bb 6f 22 19 ba 9b 7d f5 0b e1 
+C0:	a0 2d 8c fb fc 7f 00 00 47 b3 1a a0 70 7f 00 00 
+C1:	ea 74 37 18 0c 7b 3f af a2 1c 19 2f 09 6d d4 16 
+
+Running tag after block 3: 20 94 d1 2a 10 98 68 c9 b3 12 38 ce a2 c7 f0 72 
+
+Tweakey at block 4: be 61 89 f9 5c bb a8 99 0f 95 b1 eb f1 b3 05 ef fa aa 3a fb 29 d1 e6 05 3c 7c 94 75 d8 60 00 00 00 00 00 04 
+
+ === At the fork: 82 f7 7f 55 b9 ad 41 59 ad 37 31 65 43 d1 72 07  ===FORKSKINNY CALL:
+TK:	be 61 89 f9 5c bb a8 99 0f 95 b1 eb f1 b3 05 ef fa aa 3a fb 29 d1 e6 05 3c 7c 94 75 d8 60 00 00 00 00 00 04 
+PT:	1a 1c 7f 23 f8 29 f8 a4 80 00 00 00 00 00 00 00 
+C0:	a0 2d 8c fb fc 7f 00 00 47 b3 1a a0 70 7f 00 00 
+C1:	5c c6 4f 31 dc d3 08 11 70 54 41 d2 eb 8f a2 85 
+
+Running tag after block 4: 7c 52 9e 1b cc 4b 60 d8 c3 46 79 1c 49 48 52 f7 
+
+/* Processing message */
+
+Tweakey at block 1: be 61 89 f9 5c bb a8 99 0f 95 b1 eb f1 b3 05 ef fa aa 3a fb 29 d1 e6 05 3c 7c 94 75 d8 e0 00 00 00 00 00 01 
+
+ === At the fork: fc ed 85 c2 bd 6f 09 f6 a3 e1 bc 1e da 15 61 6a  ===FORKSKINNY CALL:
+TK:	be 61 89 f9 5c bb a8 99 0f 95 b1 eb f1 b3 05 ef fa aa 3a fb 29 d1 e6 05 3c 7c 94 75 d8 e0 00 00 00 00 00 01 
+PT:	f7 00 e9 a1 3a e5 ca 0b 80 00 00 00 00 00 00 00 
+C0:	d5 26 8a e7 6f 32 1d 8d 9c 77 81 f4 f7 5e 16 dc 
+C1:	08 84 b0 1a a0 4e 27 1d e7 a4 0c e0 21 b8 93 98 
+
+Block 1 of plaintext/ciphertext: a9 74 14 fc a3 79 7d 55 5f 31 f8 e8 be 16 44 2b 
+
+Running tag after block 1: 08 84 b0 1a a0 4e 27 1d e7 a4 0c e0 21 b8 93 98 
+
+/* Processing associated data */ 
+
+Tweakey at block 1: 2b aa 1a 55 a2 be 70 b5 73 3b 04 5c d3 36 94 b3 3d 34 bc 5f 4e 77 fa cb 6c 05 ac 86 21 00 00 00 00 00 00 01 
+
+ === At the fork: 9c 23 42 dc c6 b8 ca 8d f5 72 2c 09 36 ed f2 9a  ===FORKSKINNY CALL:
+TK:	2b aa 1a 55 a2 be 70 b5 73 3b 04 5c d3 36 94 b3 3d 34 bc 5f 4e 77 fa cb 6c 05 ac 86 21 00 00 00 00 00 00 01 
+PT:	2d ad d4 76 47 de 32 1c ec 4a c4 30 f6 20 23 85 
+C0:	a0 2d 8c fb fc 7f 00 00 47 b3 1a a0 70 7f 00 00 
+C1:	2c 30 04 90 23 c3 27 5c 28 41 9e 4c 46 29 55 d0 
+
+Running tag after block 1: 2c 30 04 90 23 c3 27 5c 28 41 9e 4c 46 29 55 d0 
+
+Tweakey at block 2: 2b aa 1a 55 a2 be 70 b5 73 3b 04 5c d3 36 94 b3 3d 34 bc 5f 4e 77 fa cb 6c 05 ac 86 21 00 00 00 00 00 00 02 
+
+ === At the fork: b6 bc 3b eb ec 67 d9 eb dc 5c 8b b1 5c 3b 41 5d  ===FORKSKINNY CALL:
+TK:	2b aa 1a 55 a2 be 70 b5 73 3b 04 5c d3 36 94 b3 3d 34 bc 5f 4e 77 fa cb 6c 05 ac 86 21 00 00 00 00 00 00 02 
+PT:	6c fb b2 07 04 f4 ec 0b b9 20 ba 86 c3 3e 05 f1 
+C0:	a0 2d 8c fb fc 7f 00 00 47 b3 1a a0 70 7f 00 00 
+C1:	c9 c9 3f 9f 14 65 cf 9f c8 ad 1a 0c a9 c2 25 dc 
+
+Running tag after block 2: e5 f9 3b 0f 37 a6 e8 c3 e0 ec 84 40 ef eb 70 0c 
+
+Tweakey at block 3: 2b aa 1a 55 a2 be 70 b5 73 3b 04 5c d3 36 94 b3 3d 34 bc 5f 4e 77 fa cb 6c 05 ac 86 21 60 00 00 00 00 00 03 
+
+ === At the fork: e5 2e 11 77 2f 1e 0c 9c 2b a7 d7 95 69 76 0c 86  ===FORKSKINNY CALL:
+TK:	2b aa 1a 55 a2 be 70 b5 73 3b 04 5c d3 36 94 b3 3d 34 bc 5f 4e 77 fa cb 6c 05 ac 86 21 60 00 00 00 00 00 03 
+PT:	ec d9 67 33 b7 99 50 a3 80 00 00 00 00 00 00 00 
+C0:	a0 2d 8c fb fc 7f 00 00 47 b3 1a a0 70 7f 00 00 
+C1:	14 a4 94 b9 3c 1b ac 53 75 e6 81 9c e0 fc 01 d0 
+
+Running tag after block 3: f1 5d af b6 0b bd 44 90 95 0a 05 dc 0f 17 71 dc 
+
+/* Processing message */
+
+Tweakey at block 1: 2b aa 1a 55 a2 be 70 b5 73 3b 04 5c d3 36 94 b3 3d 34 bc 5f 4e 77 fa cb 6c 05 ac 86 21 80 00 00 00 00 00 01 
+
+ === At the fork: 2e 9a 1f 98 5a 84 4e 92 24 cf 31 3e dd 76 13 5f  ===FORKSKINNY CALL:
+TK:	2b aa 1a 55 a2 be 70 b5 73 3b 04 5c d3 36 94 b3 3d 34 bc 5f 4e 77 fa cb 6c 05 ac 86 21 80 00 00 00 00 00 01 
+PT:	af e2 f0 e4 9e 4f 32 15 49 fd 82 4e a9 08 70 d4 
+C0:	e4 4b e8 86 2e 24 75 db ae a9 fe 33 fc f2 a8 4e 
+C1:	87 ad 8b 1f a6 69 d6 de 15 b5 5b 7f 7f e5 d5 b0 
+
+Block 1 of plaintext/ciphertext: e4 4b e8 86 2e 24 75 db ae a9 fe 33 fc f2 a8 4e 
+
+Running tag after block 1: 76 f0 24 a9 ad d4 92 4e 80 bf 5e a3 70 f2 a4 6c 
+
+Tweakey at block 2: 2b aa 1a 55 a2 be 70 b5 73 3b 04 5c d3 36 94 b3 3d 34 bc 5f 4e 77 fa cb 6c 05 ac 86 21 80 00 00 00 00 00 02 
+
+ === At the fork: 3e f5 c3 c1 a7 2c bb 69 51 bc fe ba f1 ee c7 32  ===FORKSKINNY CALL:
+TK:	2
